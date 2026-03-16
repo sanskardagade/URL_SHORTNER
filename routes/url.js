@@ -8,4 +8,3 @@ router.post("/", newshortUrl);
 router.get("/analytics/:shortId", getAnalytics);
 
 
-export default router;
